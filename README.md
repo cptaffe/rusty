@@ -1,0 +1,4 @@
+rusty
+=====
+
+Rust progam
